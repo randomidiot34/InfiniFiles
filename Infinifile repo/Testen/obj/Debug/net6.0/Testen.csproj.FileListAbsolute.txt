@@ -1,0 +1,15 @@
+C:\Users\Lukas\source\repos\Testen\Testen\bin\Debug\net6.0\Testen.exe
+C:\Users\Lukas\source\repos\Testen\Testen\bin\Debug\net6.0\Testen.deps.json
+C:\Users\Lukas\source\repos\Testen\Testen\bin\Debug\net6.0\Testen.runtimeconfig.json
+C:\Users\Lukas\source\repos\Testen\Testen\bin\Debug\net6.0\Testen.dll
+C:\Users\Lukas\source\repos\Testen\Testen\bin\Debug\net6.0\Testen.pdb
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Debug\net6.0\Testen.csproj.AssemblyReference.cache
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Debug\net6.0\Testen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Debug\net6.0\Testen.AssemblyInfoInputs.cache
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Debug\net6.0\Testen.AssemblyInfo.cs
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Debug\net6.0\Testen.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Debug\net6.0\Testen.dll
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Debug\net6.0\refint\Testen.dll
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Debug\net6.0\Testen.pdb
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Debug\net6.0\Testen.genruntimeconfig.cache
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Debug\net6.0\ref\Testen.dll

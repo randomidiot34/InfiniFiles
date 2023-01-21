@@ -1,0 +1,15 @@
+C:\Users\Lukas\source\repos\Testen\Testen\bin\Release\net6.0\InfiniFiles.exe
+C:\Users\Lukas\source\repos\Testen\Testen\bin\Release\net6.0\InfiniFiles.deps.json
+C:\Users\Lukas\source\repos\Testen\Testen\bin\Release\net6.0\InfiniFiles.runtimeconfig.json
+C:\Users\Lukas\source\repos\Testen\Testen\bin\Release\net6.0\InfiniFiles.dll
+C:\Users\Lukas\source\repos\Testen\Testen\bin\Release\net6.0\InfiniFiles.pdb
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Release\net6.0\InfiniFiles.csproj.AssemblyReference.cache
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Release\net6.0\InfiniFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Release\net6.0\InfiniFiles.AssemblyInfoInputs.cache
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Release\net6.0\InfiniFiles.AssemblyInfo.cs
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Release\net6.0\InfiniFiles.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Release\net6.0\InfiniFiles.dll
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Release\net6.0\refint\InfiniFiles.dll
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Release\net6.0\InfiniFiles.pdb
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Release\net6.0\InfiniFiles.genruntimeconfig.cache
+C:\Users\Lukas\source\repos\Testen\Testen\obj\Release\net6.0\ref\InfiniFiles.dll
